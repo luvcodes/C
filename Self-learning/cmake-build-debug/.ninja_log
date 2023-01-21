@@ -1,10 +1,20 @@
 # ninja log v5
-1	169	6959176497328115	build.ninja	bfd2a2f74a8cdb32
-2	126	6959174335505291	CMakeFiles/Self_learning.dir/main.c.obj	16c8816102560a76
-127	244	6959174336639074	Self_learning.exe	2a7e9418bfcce824
+3	125	6959660072682863	CMakeFiles/Self_learning.dir/Intro/CLanguage_2/test.c.obj	33c58e9e120f975f
+0	229	6959660770381590	build.ninja	bfd2a2f74a8cdb32
+2	133	6959657711850600	CMakeFiles/Self_learning.dir/main.c.obj	16c8816102560a76
+107	219	6959177878961626	Self_learning.exe	afde87e4079a8355
+1	226	6959656985483409	CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj	426de98029242c48
 18	246	6959051072337576	CMakeFiles/Self_learning.dir/test.c.obj	3818eb386adf7772
 16	209	6959177756958214	CMakeFiles/Self_learning.dir/sum.c.obj	f29abe36a7f1cd0a
-5	225	6959177757073028	CMakeFiles/Self_learning.dir/main.c.obj	16c8816102560a76
-225	365	6959177758517775	Self_learning.exe	afde87e4079a8355
-3	106	6959177877876709	CMakeFiles/Self_learning.dir/main.c.obj	16c8816102560a76
-107	219	6959177878961626	Self_learning.exe	afde87e4079a8355
+28	218	6959656985416655	CMakeFiles/Self_learning.dir/Intro/CLanguage_1/sum.c.obj	d8eaa398148a72a4
+1	229	6959660770381590	build.ninja	bfd2a2f74a8cdb32
+2	126	6959660772012651	CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj	426de98029242c48
+127	274	6959660773429597	Self_learning.exe	8ddad0fd1b9f5fe4
+2	99	6959661816747998	CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj	426de98029242c48
+99	202	6959661817733808	Self_learning.exe	8ddad0fd1b9f5fe4
+1	93	6959662165481049	CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj	426de98029242c48
+93	189	6959662166401394	Self_learning.exe	8ddad0fd1b9f5fe4
+3	107	6959662260840536	CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj	426de98029242c48
+108	286	6959662262495524	Self_learning.exe	8ddad0fd1b9f5fe4
+2	110	6959662314807163	CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj	426de98029242c48
+111	237	6959662316012374	Self_learning.exe	8ddad0fd1b9f5fe4

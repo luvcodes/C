@@ -49,17 +49,17 @@ cmake_ninja_workdir = C$:/Users/ryanw/CLionProjects/C-language/Self-learning/cma
 
 build cmake_object_order_depends_target_Self_learning: phony || CMakeFiles/Self_learning.dir
 
-build CMakeFiles/Self_learning.dir/main.c.obj: C_COMPILER__Self_learning_Debug C$:/Users/ryanw/CLionProjects/C-language/Self-learning/main.c || cmake_object_order_depends_target_Self_learning
-  DEP_FILE = CMakeFiles\Self_learning.dir\main.c.obj.d
+build CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj: C_COMPILER__Self_learning_Debug C$:/Users/ryanw/CLionProjects/C-language/Self-learning/Intro/CLanguage_1/main.c || cmake_object_order_depends_target_Self_learning
+  DEP_FILE = CMakeFiles\Self_learning.dir\Intro\CLanguage_1\main.c.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu11
   OBJECT_DIR = CMakeFiles\Self_learning.dir
-  OBJECT_FILE_DIR = CMakeFiles\Self_learning.dir
+  OBJECT_FILE_DIR = CMakeFiles\Self_learning.dir\Intro\CLanguage_1
 
-build CMakeFiles/Self_learning.dir/sum.c.obj: C_COMPILER__Self_learning_Debug C$:/Users/ryanw/CLionProjects/C-language/Self-learning/sum.c || cmake_object_order_depends_target_Self_learning
-  DEP_FILE = CMakeFiles\Self_learning.dir\sum.c.obj.d
+build CMakeFiles/Self_learning.dir/Intro/CLanguage_1/sum.c.obj: C_COMPILER__Self_learning_Debug C$:/Users/ryanw/CLionProjects/C-language/Self-learning/Intro/CLanguage_1/sum.c || cmake_object_order_depends_target_Self_learning
+  DEP_FILE = CMakeFiles\Self_learning.dir\Intro\CLanguage_1\sum.c.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu11
   OBJECT_DIR = CMakeFiles\Self_learning.dir
-  OBJECT_FILE_DIR = CMakeFiles\Self_learning.dir
+  OBJECT_FILE_DIR = CMakeFiles\Self_learning.dir\Intro\CLanguage_1
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/Self_learning.dir/sum.c.obj: C_COMPILER__Self_learning_Debug C$
 #############################################
 # Link the executable Self_learning.exe
 
-build Self_learning.exe: C_EXECUTABLE_LINKER__Self_learning_Debug CMakeFiles/Self_learning.dir/main.c.obj CMakeFiles/Self_learning.dir/sum.c.obj
+build Self_learning.exe: C_EXECUTABLE_LINKER__Self_learning_Debug CMakeFiles/Self_learning.dir/Intro/CLanguage_1/main.c.obj CMakeFiles/Self_learning.dir/Intro/CLanguage_1/sum.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Self_learning.dir

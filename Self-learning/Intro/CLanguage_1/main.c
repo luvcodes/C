@@ -10,14 +10,19 @@
 // 局部变量的作用域是变量所在的局部范围
 // 全局变量的作用于是整个工程
 
-int main() {
-    {
-        int a = 10;
-        printf("a = %d\n", a);
-    }
-//    printf("a = %d\n", a);
-    return 0;
+void test() {
+    int num1 = 0;
+    int num2 = 0;
+    int sum = 0;
+    scanf_s("%d%d", &num1, &num2);
+    sum = num1 + num2;
+    printf("sum = %d\n", sum);
 }
+
+//int main() {
+//    test();
+//    return 0;
+//}
 
 /*
  * 全局变量的作用域 以及 调用函数
@@ -68,34 +73,7 @@ int main() {
 
 
 
-//int main() {
-//    // 计算两个数的和
-//    int num1 = 0;
-//    int num2 = 0;
-//    int sum = 0;
-//
-//    // 输入数据 - 使用输入函数scanf
-//    scanf("%d%d", &num1, &num2); // 取地址符号&
-//    sum = num1 + num2;
-//    printf("sum = %d\n", sum);
-//
-//    return 0;
-//}
-
-
-
-//int main() {
-//    // 局部变量的作用域
-//    int num = 0;
-//    {
-//        printf("num = %d\n", num);
-//    }
-//
-//    return 0;
-//}
-
-
-
+// 引入其他文件
 //int main() {
 //    extern int g_val;
 //    printf("g_val = %d\n", g_val);
