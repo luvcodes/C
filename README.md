@@ -28,3 +28,10 @@ the last element will give us a `random value`.
    - so if we define the array like this: `char arr3[] = {'a', 'b', 'c', '\0'};`, the result will give us the same as the first condition.
    - this is how to print the string: `printf("%s\n", arr1);`
    - usage of `strlen()` function
+3. Loops:
+   - While loop basic usage
+4. Functions:
+   - Define and call function method
+5. Arrays:
+   - Define and iterate arrays
+   - the usage of `sizeof()` function
