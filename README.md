@@ -35,3 +35,7 @@ the last element will give us a `random value`.
 5. Arrays:
    - Define and iterate arrays
    - the usage of `sizeof()` function
+### Class 4 contents: 
+1. Pointers introduction
+### Class 6 contents - conditions and loops:
+1. If statements
