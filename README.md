@@ -38,4 +38,5 @@ the last element will give us a `random value`.
 ### Class 4 contents: 
 1. Pointers introduction
 ### Class 6 contents - conditions and loops:
-1. If statements
+1. If statements and practices
+2. switch statements, notice: `break;` **does not has to be included** at the end of each case.
