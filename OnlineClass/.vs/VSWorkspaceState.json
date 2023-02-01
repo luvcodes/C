@@ -1,0 +1,18 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\Class_6",
+    "\\Class_6\\Loops",
+    "\\Class_6\\Loops\\For",
+    "\\OnlineClassBackUp",
+    "\\out"
+  ],
+  "SelectedNode": "\\OnlineClassBackUp\\OnlineClassBackUp.sln",
+  "PreviewInSolutionExplorer": false
+}

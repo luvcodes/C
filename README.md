@@ -42,3 +42,4 @@ the last element will give us a `random value`.
 2. switch statements, notice: `break;` **does not has to be included** at the end of each case.
 3. Loops:
    - While loops, also the `getchar()` is for user input, `putchar()` is for output
+   - For loops
