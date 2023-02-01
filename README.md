@@ -40,3 +40,5 @@ the last element will give us a `random value`.
 ### Class 6 contents - conditions and loops:
 1. If statements and practices
 2. switch statements, notice: `break;` **does not has to be included** at the end of each case.
+3. Loops:
+   - While loops, also the `getchar()` is for user input, `putchar()` is for output
