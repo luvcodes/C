@@ -9,13 +9,26 @@
 - Chapter02
   - Chapter2.1 Get to know the first C program
   - Chapter2.2 `printf()` method and display integer number, usage of `%d`
-  - Chapter2.6 two functions, call function
+  - Chapter2.6 two functions, **call function**
 - Chapter03
   - Chapter3.1 user input, `scanf()`
   - Chapter3.3 decimal, octal, hexadecimal to print decimal number 100
        exceed decimal and unsigned integer range
   - Chapter3.4 range display for `unsigned`, `short`, `long`, `long long` variable types
-
+  - Chapter3.7 `Escape character`
+- Chapter04
+  - Chapter4.1 Demonstrate user interaction by using `scanf()` and `printf()` along with define array to contain strings
+  - Chapter4.2 the usage of `%s`
+  - Chapter4.3 
+    - `#define` keyword for constants
+    - Chapter4.3.2: Use `limit.h` and `float.h` header files to demonstrate the express constants
+  - Chapter4.4 the usage of `control field width`
+  - Chapter4.7 Practice questions - answers are in Appendix A
+  - Chapter4.8 Coding practice
+- Chapter05
+  - Chapter5.1 
+    - Operators
+    - While loops
 # ----------------------------------------
 
 # C language online class - From BILIBILI
