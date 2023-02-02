@@ -53,3 +53,7 @@ the last element will give us a `random value`.
    - While loops, also the `getchar()` is for user input, `putchar()` is for output
    - Continue keyword: jump rest of the statements within current loop time.
    - For loops
+
+### Class 9 contents - Functions and methods
+1. Define functions and methods, call functions and methods within the main function.
+2. 
