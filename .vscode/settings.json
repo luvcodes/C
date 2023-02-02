@@ -1,4 +1,8 @@
 {
     "C_Cpp.errorSquiggles": "enabled",
-    "cmake.sourceDirectory": "${workspaceFolder}/OnlineClass"
+    "cmake.sourceDirectory": "${workspaceFolder}/OnlineClass",
+    "files.associations": {
+        "*.php": "php",
+        "stdio.h": "c"
+    }
 }

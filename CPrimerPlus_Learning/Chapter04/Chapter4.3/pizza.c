@@ -8,6 +8,6 @@ int main(void) {
     area = PI * radius * radius;
     circum = 2.0 * PI * radius;
     printf("Your basic pizza parameters are as follow:\n");
-    printf("circumference = %1.2f, area = %1.2f\n", circum, area);
+    printf("circumference = %9.2f, area = %1.2f\n", circum, area);
     return 0;
 }
