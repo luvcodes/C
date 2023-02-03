@@ -36,7 +36,15 @@
     - Chapter5.2.5: `*` operator, used as multiplication, `**` for square operations
     - Chapter5.2.6: `/` operator, used as division
     - Chapter5.2.7: Operator precedence
-    - 
+    - Chapter5.2.8: Operator precedence and the order of evaluation
+  - Chapter5.3 Other Operators
+    - Chapter5.3.1 `sizeof()` operator
+    - Chapter5.3.2 `%` modulus operator, can only be used for integer calculations.   
+    **Negative numbers?** for modulus operations, if the first number is negative, then the result is negative, likewise, if the first number is positive, then the result is positive.
+    - Chapter5.3.3: `++` increment operator. **Note**: if the increment operator is at the front of the variable, then the variable increase 1 first, then do other calculations or assign values, if the increment operator is at the end of the variable, then do other calculations or assign values first, then increase 1.
+    - Chapter5.3.4: `--` decrement operator
+    - Chapter5.3.5: `++` increment operator and decrement operator precedence.
+  - Chapter5.4 Statements
 # ----------------------------------------
 
 # C language online class - From BILIBILI
