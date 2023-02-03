@@ -45,6 +45,9 @@
     - Chapter5.3.4: `--` decrement operator
     - Chapter5.3.5: `++` increment operator and decrement operator precedence.
   - Chapter5.4 Expression and statements
+    - Chapter5.4.1: Expressions
+    - Chapter5.4.2: Statements
+    - Chapter5.4.3: Compound statement
 # ----------------------------------------
 
 # C language online class - From BILIBILI
