@@ -27,8 +27,16 @@
   - Chapter4.8 Coding practice
 - Chapter05
   - Chapter5.1 
-    - Operators
     - While loops
+  - Chapter5.2
+    - Chapter5.2.1: `=` operator, assign value
+    - Chapter5.2.2: `+` operator, **binary operator**
+    - Chapter5.2.3: `-` operator, **binary operator**
+    - Chapter5.2.4: `- and +` symbolic operators, can represent negative and positive, **unary operator**
+    - Chapter5.2.5: `*` operator, used as multiplication, `**` for square operations
+    - Chapter5.2.6: `/` operator, used as division
+    - Chapter5.2.7: Operator precedence
+    - 
 # ----------------------------------------
 
 # C language online class - From BILIBILI
