@@ -44,7 +44,7 @@
     - Chapter5.3.3: `++` increment operator. **Note**: if the increment operator is at the front of the variable, then the variable increase 1 first, then do other calculations or assign values, if the increment operator is at the end of the variable, then do other calculations or assign values first, then increase 1.
     - Chapter5.3.4: `--` decrement operator
     - Chapter5.3.5: `++` increment operator and decrement operator precedence.
-  - Chapter5.4 Statements
+  - Chapter5.4 Expression and statements
 # ----------------------------------------
 
 # C language online class - From BILIBILI
