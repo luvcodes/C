@@ -40,6 +40,11 @@
       - As example: In Chapter5.6 folder, check program `pound.c`
 - Chapter06 - **Loops**
   - `While` loops
+  - Chapter6.3
+    - Chapter6.3.3 - Relational expression and relational operator
+    - Chapter6.3.4 - **Boolean type**
+  - Chapter6.4 - Indefinite loop and counting loop
+  - Chapter6.5 - **For loop**
 # ----------------------------------------
 
 # C language online class - From BILIBILI
