@@ -48,6 +48,13 @@
     - Chapter5.4.1: Expressions
     - Chapter5.4.2: Statements
     - Chapter5.4.3: Compound statement
+  - Chapter5.5 Type conversion
+  - Chapter5.6 Functions with parameters
+    - **Difference: formal argument and actual argument**: 
+      - `Formal argument`: The parameter get involved when **declaring** the function. Called as **parameter**
+      - `Actual argument`: The parameter get involved when the **actual value** passed to the function. Called as **argument**
+      - As example: In Chapter5.6 folder, check program `pound.c`
+    - 
 # ----------------------------------------
 
 # C language online class - From BILIBILI
