@@ -48,6 +48,9 @@
   - Chapter6.8 - **do-while loop**
   - Chapter6.10 - **nested loop**
 - Chapter07 - if statements and jump keywords
+  - Chapter7.1 `If` statements
+  - Chapter7.2 `If-else` statements
+  - Chapter7.3 Logical operators
 # ----------------------------------------
 
 # C language online class - From BILIBILI
