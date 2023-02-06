@@ -45,6 +45,9 @@
     - Chapter6.3.4 - **Boolean type**
   - Chapter6.4 - Indefinite loop and counting loop
   - Chapter6.5 - **For loop**
+  - Chapter6.8 - **do-while loop**
+  - Chapter6.10 - **nested loop**
+- Chapter07 - if statements and jump keywords
 # ----------------------------------------
 
 # C language online class - From BILIBILI
