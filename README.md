@@ -51,6 +51,10 @@
   - Chapter7.1 `If` statements
   - Chapter7.2 `If-else` statements
   - Chapter7.3 Logical operators
+- Chapter08 I/O, input verification
+- Chapter09 `Functions`
+- Chapter10 Arrays and pointers
+- Chapter11 Strings and string functions
 # ----------------------------------------
 
 # C language online class - From BILIBILI
